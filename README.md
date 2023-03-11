@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThamirizCosta
 - 👀 I’m interested in learning more about programming :)
-- 🌱 I’m currently learning python, C++ and C. 
+- 🌱 I know the basics of C, C++, Python. I am currently learning Java, HTML5, CSS, PHP and Javascript.
 - 💞️ i'm looking to collaborate for community about programming
 - 📫 How to reach me - e-mail: thamirizcosta@gmail.com
 
